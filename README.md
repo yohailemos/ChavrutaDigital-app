@@ -131,30 +131,6 @@ Esta descrição pode ser ajustada conforme o estágio real do projeto (MVP, bet
 
 ---
 
-## 🤝 Contribuindo
-
-Sugestões, issues e contribuições são bem-vindas!
-
-1. Faça um **fork** deste repositório.  
-2. Crie uma branch para sua feature ou correção:  
-   `git checkout -b minha-feature`  
-3. Faça o commit das alterações:  
-   `git commit -m "Minha nova feature"`  
-4. Envie para o repositório remoto:  
-   `git push origin minha-feature`  
-5. Abra um **Pull Request**.
-
----
-
-## 📄 Licença
-
-Defina aqui a licença do projeto (por exemplo, MIT, Apache 2.0, ou “Todos os direitos reservados”).  
-Exemplo:
-
-Este projeto está licenciado sob os termos da licença **MIT**.  
-
----
-
 ## 🙏 Conclusão
 
 Chavruta Digital oferece uma forma inovadora de estudar Torá, combinando **tradição milenar** com **tecnologia de ponta**.  
