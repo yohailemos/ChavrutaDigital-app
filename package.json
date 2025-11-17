@@ -2,7 +2,7 @@
       "name": "Chavruta Digital app",
       "version": "0.1.0",
       "private": true,
-      "homepage": "https://herbertondev.github.io/ChavrutaDigital-app",
+      "homepage": "https://yohailemos.github.io/ChavrutaDigital-app",
       "dependencies": {
           "@radix-ui/react-accordion": "^1.2.3",
           "@radix-ui/react-alert-dialog": "^1.1.6",
