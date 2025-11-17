@@ -1,6 +1,6 @@
 # Chavruta Digital Platform
 
-Chavruta Digital é uma plataforma de estudo da Torá que combina o método tradicional de estudo chavruta com recursos avançados de inteligência artificial.  Desenvolvida para fornecer uma **experiência de estudo judaica autêntica e envolvente**, a plataforma une alunos de diferentes níveis de conhecimento em um ambiente virtual moderno. O slogan enfatiza seu propósito: **“Transforme seu Estudo da Torá com Tecnologia de IA”**:contentReference[oaicite:0]{index=0}.
+Chavruta Digital é uma plataforma de estudo da Torá que combina o método tradicional de estudo chavruta com recursos avançados de inteligência artificial. Desenvolvida para fornecer uma **experiência de estudo judaica autêntica e envolvente**, a plataforma une alunos de diferentes níveis de conhecimento em um ambiente virtual moderno. O slogan enfatiza seu propósito: **“Transforme seu Estudo da Torá com Tecnologia de IA”**:contentReference[oaicite:0]{index=0}.
 
 ## Visão Geral
 
@@ -61,4 +61,3 @@ Usuários relatam impacto positivo no estudo:
 Chavruta Digital oferece uma nova forma de estudar Torá combinando tradição e tecnologia. A plataforma une pareamento inteligente, biblioteca completa, assistente de IA e gamificação em uma interface moderna, proporcionando uma experiência de aprendizagem profunda e personalizada. A adesão pode começar pelo plano gratuito e evoluir para opções pagas conforme a necessidade.
 
 > **Pronto para transformar seu estudo da Torá?**  Junte-se a milhares de estudantes que já descobriram essa nova forma de aprendizado:contentReference[oaicite:31]{index=31}.
-
