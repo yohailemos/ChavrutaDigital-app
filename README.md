@@ -101,19 +101,6 @@ Inclui tudo do plano Premium, além de:
 
 ---
 
-## 💬 Depoimentos (exemplos)
-
-> **Rabbi David Cohen**, educador da Comunidade Shalom (SP)  
-> “O pareamento por IA é incrivelmente preciso, e os recursos educacionais são autênticos e profundos.”
-
-> **Sarah Goldstein**, baalat teshuvá – Rio de Janeiro  
-> “Antes da plataforma, era quase impossível encontrar um chavruta adequado ao meu nível. A Chavruta Digital mudou completamente minha rotina de estudo e minha vida judaica.”
-
-> **Moshe Levi**, estudante de yeshivá  
-> “A biblioteca de textos é impressionante, e o assistente de IA se tornou uma ferramenta essencial no meu dia a dia de estudo.”
-
----
-
 ## ❓ Perguntas Frequentes (FAQ)
 
 **1. Como funciona o pareamento?**  
